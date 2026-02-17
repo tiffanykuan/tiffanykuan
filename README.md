@@ -8,7 +8,7 @@
 
 # Hi, I'm Tiffany 👋
 
-Computer Engineering student with a strong interest in mobile development, embedded systems, and backend architecture.  
+3rd Computer Engineering student with a strong interest in mobile development, embedded systems, and backend architecture.  
 I enjoy building systems from low-level hardware control all the way up to full-stack applications.
 
 ---
